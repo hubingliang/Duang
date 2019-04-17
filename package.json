@@ -1,0 +1,21 @@
+{
+    "name": "duang",
+    "displayName": "Duang",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.33.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Brownhu",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Brownhu-color-theme.json"
+            }
+        ]
+    }
+}
