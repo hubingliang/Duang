@@ -1,9 +1,10 @@
 {
     "name": "duang",
     "displayName": "Duang",
-    "icon": "https://i.loli.net/2019/04/18/5cb807df8413d.jpg",
+    "icon": "icon.jpg",
     "description": "Very dark, very bright and very soft dark Syntax Theme for Editors",
-    "version": "0.0.1",
+    "version": "0.0.2",
+    "publisher": "Brownhu",
     "engines": {
         "vscode": "^1.33.0"
     },
@@ -13,7 +14,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Brownhu",
+                "label": "Duang",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Brownhu-color-theme.json"
             }
