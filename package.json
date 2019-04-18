@@ -1,7 +1,8 @@
 {
     "name": "duang",
     "displayName": "Duang",
-    "description": "",
+    "icon": "https://i.loli.net/2019/04/18/5cb807df8413d.jpg",
+    "description": "Very dark, very bright and very soft dark Syntax Theme for Editors",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.33.0"
