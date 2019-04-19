@@ -1,7 +1,5 @@
 # Duang
 
-[![npm version](https://badge.fury.io/js/duang.svg)](https://badge.fury.io/js/duang)
-
 Very dark, very bright and very soft dark Syntax Theme for Editors.
 
 github: https://github.com/hubingliang/Duang
