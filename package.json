@@ -3,7 +3,7 @@
     "displayName": "Duang",
     "icon": "icon.jpg",
     "description": "Very dark, very bright and very soft dark Syntax Theme for Editors",
-    "version": "0.0.2",
+    "version": "0.1.1",
     "publisher": "Brownhu",
     "engines": {
         "vscode": "^1.33.0"
