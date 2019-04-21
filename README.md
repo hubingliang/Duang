@@ -16,11 +16,28 @@ github: https://github.com/hubingliang/Duang
 
 ## Screenshot
 
-![](https://user-gold-cdn.xitu.io/2019/4/18/16a3062d5015d575?w=1920&h=1057&f=png&s=327708)
+### HTML5
+
+![HTML](https://github.com/hubingliang/Duang/blob/master/image/html.png?raw=true)
+
+### CSS
+
+![CSS](https://github.com/hubingliang/Duang/blob/master/image/css.png?raw=true)
+
+### JavaScript
+
+![JavaScript](https://github.com/hubingliang/Duang/blob/master/image/js.png?raw=true)
+
+### JSON
+
+![JSON](https://github.com/hubingliang/Duang/blob/master/image/jaon.png?raw=true)
+
+### VUE
+
+![VUE](https://github.com/hubingliang/Duang/blob/master/image/vue.png?raw=true)
 
 ## Tips
 
 if you see something ignore, please feel free to [file an issue](https://github.com/hubingliang/Duang/issues)! I'm sure there are things I missed.
 
 This palette was inspired in part by Dracula [Theme](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula), and the accessibility idea was inspired in part by One Dark Pro [Themes](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
-
